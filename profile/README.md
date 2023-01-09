@@ -90,7 +90,9 @@ menerima bukti hasil transaksi melalui platform ini.
 | Important Info |  ***Completed*** | Buyer dapat melihat info penting yang diambil dari News Api Indonesia |
 
 
-<br>
+[![Buyer](https://user-images.githubusercontent.com/91337674/211364817-c4922a24-ac98-4811-874c-15594fb3ae7e.mp4)](https://user-images.githubusercontent.com/91337674/211364817-c4922a24-ac98-4811-874c-15594fb3ae7e.mp4)
 
 </div>
+
+
 
