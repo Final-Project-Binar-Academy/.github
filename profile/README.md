@@ -75,7 +75,7 @@ menerima bukti hasil transaksi melalui platform ini.
 | :--------- |:--------    |:--------    |
 | Menggunakan fitur push notification | ***Completed*** | Push Notif ketika User berhasil melakukan booking dan pembayaran |
 | Fitur biometric untuk login (UI dibebaskan) | ***Not Completed*** |  |
-| Menggunakan fitur kamera | ***Completed*** | User dapat mengganti Foto Profile melalui kamera |
+| Menggunakan fitur kamera | ***Completed*** | Buyer dapat mengganti Foto Profile melalui kamera |
 | Menggunakan navigation component | ***Completed*** | Semua perpindahan fragment menggunakan navigation component |
 | Motion | ***Completed*** | Motion layout pada dashboard admin |
 | Swipe Touch |  ***Completed*** | Buyer dapat melakukan delete pada wishlist dengan swipe ke kanan |
@@ -84,6 +84,11 @@ menerima bukti hasil transaksi melalui platform ini.
 | Filter Transaksi |   ***Completed*** | Buyer dan Admin dapat melakukan filter success, pending, dan canceled pada transaksi |
 | FilterResults |  ***Completed*** | Buyer dapat melakukan search kota/kode airport dengan mengetik pada editText saat melakukan pencarian tiket |
 | Cancel Transaksi |  ***Completed*** | Setelah berhasil melakukan booking, buyer dapat lanjut melakukan pembayaran ataupun cancel |
+| Listing City & Kode Airport |  ***Completed*** | Admin dapat memilih city dan kode airport saat create dan edit ticket |
+| Listing Airplane |  ***Completed*** | Admin dapat memilih airplane saat create dan edit ticket |
+| Listing Company |  ***Completed*** | Admin dapat memilih company saat create dan edit airplane |
+| Important Info |  ***Completed*** | Buyer dapat melihat info penting yang diambil dari News Api Indonesia |
+
 
 <br>
 
